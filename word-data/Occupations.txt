@@ -1,0 +1,66 @@
+police officer
+occupational therapist
+doctor
+nurse
+teacher
+janitor
+accountant
+electrical engineer
+plumber
+engineer
+administrative assistant
+soldier
+speech therapist
+photographer
+prison officer
+lawyer
+professor
+musician
+stockbroker
+pharmacist
+dentist
+ballet dancer
+sanitation engineer
+bus driver
+farmer
+singer
+artist
+house painter
+shop assistant
+store manager
+bank clerk
+zookeeper
+mechanic
+bartender
+cashier
+welder
+baker
+architect
+curator
+hairstylist
+journalist
+bookbinder
+leatherworker
+potter
+quilter
+sailmaker
+psychologist
+acheologist
+astronomer
+paleontologist
+economist
+historian
+botanist
+acrobat
+comedian
+poet
+mime
+veterinarian
+receptionist
+social media manager
+interior designer
+librarian
+bank teller
+chef
+firefighter
+fitness trainer
